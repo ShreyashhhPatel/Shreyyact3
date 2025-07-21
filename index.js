@@ -17,10 +17,10 @@ app.set('views', path.join(__dirname, 'views'));
 // Database configuration
 // Update with your own DB info from azure
 const config = {
-    user: 'azureuser',
-    password: 'P@ssw0rdssss',
-    server: 'bingoone.database.windows.net',
-    database: 'sirsircost',
+    user: 'shreyash',
+    password: 'Asd1234567890',
+    server: 'shreyy.database.windows.net',
+    database: 'Shreyyact3',
     options: {
         encrypt: true,
         enableArithAbort: true
